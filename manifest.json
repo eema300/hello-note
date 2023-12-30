@@ -1,0 +1,16 @@
+{
+    "name": "Floating Text Editor",
+    "description": "A tool for taking notes while browsing, without having to leave the current tab",
+    "version": "1.0",
+    "manifest_version": 3,
+    
+    "action": {
+      "default_icon": "logo.png",
+      "default_title": "Open Text Editor",
+      "default_popup": "box.html"
+    },
+
+    "permissions": [
+      "activeTab"
+    ]
+}
