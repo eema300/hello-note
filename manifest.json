@@ -1,7 +1,7 @@
 {
-    "name": "Floating Text Editor",
+    "name": "Hello, Note!",
     "description": "A tool for taking notes while browsing, without having to leave the current tab",
-    "version": "1.0",
+    "version": "1.0.0",
     "manifest_version": 3,
     
     "action": {
