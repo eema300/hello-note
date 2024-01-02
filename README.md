@@ -1,5 +1,5 @@
-# Hello, note!
-*Hello, note!* is a simple and easy to use Google Chrome Extension for taking notes as you browse. It can be used by clicking the extension icon in the toolbar and typing into the text field.
+# Hello, Note!
+*Hello, Note!* is a simple and easy to use Google Chrome Extension for taking notes as you browse. It can be used by clicking the extension icon in the toolbar and typing into the text field.
 The user is also able to save their notes as a plain text file to their computer.
 
 ## Functionality
