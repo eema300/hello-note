@@ -11,3 +11,6 @@ This extension utilizes the local storage on your browser to restore entered tex
 - Beautify the UI of the notepad and let the user change the color theme
 - Allow different file formats for saving text
 - Allow user upload of text files
+
+
+Hello, Note! will be available to Google Chrome store pending review.
